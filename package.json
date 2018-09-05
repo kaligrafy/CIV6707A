@@ -1,0 +1,8 @@
+{
+  "name": "CIV6707A",
+  "version": "0.1",
+  "main": "app.js",
+  "repository": "https://github.com/kaligrafy/CIV6707A",
+  "author": "Pierre-Léo Bourbonnais <leo.bourbonnais@polymtl.ca>",
+  "license": "MIT"
+}
